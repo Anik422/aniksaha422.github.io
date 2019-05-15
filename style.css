@@ -107,6 +107,21 @@ ul li:nth-child( 4) a:before{
 	background: #dd4b39;
 }
 
+h1 img{
+	height: 50%;
+	width: 50%;
+	border-radius: 10%;
+	
+}
+footer p{
+	font-family: tahoma;
+	font-size: 20px;
+	text-align: center;
+	background: #192a56;
+	padding:20px;
+	color: #dcdde1;
+}
+
 			/* menu style css */
 
 
